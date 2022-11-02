@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067370144319",
+    "firebase_url": "https://cobalagi-545a9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cobalagi-545a9",
+    "storage_bucket": "cobalagi-545a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067370144319:android:756ca21426c721dbc34e8a",
+        "android_client_info": {
+          "package_name": "com.example.ujikom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067370144319-p0qt0k4nmbtc2o83qijjuqecfg0nugpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeGPk7jMLA3v_QRcjf4wyuzaqrHcmDGcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067370144319-p0qt0k4nmbtc2o83qijjuqecfg0nugpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
